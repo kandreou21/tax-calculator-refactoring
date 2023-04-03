@@ -1,0 +1,37 @@
+<Name> Nikos Zisis </Name>
+<AFM> 130456094 </AFM>
+<Status> Single </Status>
+<Income> 40000.0 </Income>
+
+<Receipts>
+
+<ReceiptID> 1 </ReceiptID>
+<Date> 21/12/2000 </Date>
+<Kind> Basic </Kind>
+<Amount> 123.0 </Amount>
+<Company> Great </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> qw </Street>
+<Number> 1 </Number>
+
+<ReceiptID> 2 </ReceiptID>
+<Date> 11/12/2022 </Date>
+<Kind> Entertainment </Kind>
+<Amount> 1000.0 </Amount>
+<Company> Mondo </Company>
+<Country> Greece </Country>
+<City> Paramythia </City>
+<Street> ff </Street>
+<Number> 21 </Number>
+
+<ReceiptID> 3 </ReceiptID>
+<Date> 16/12/2000 </Date>
+<Kind> Basic </Kind>
+<Amount> 131.0 </Amount>
+<Company> Public </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> aewq </Street>
+<Number> 21 </Number>
+

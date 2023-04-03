@@ -1,0 +1,27 @@
+<Name> Apostolos Zarras </Name>
+<AFM> 123456789 </AFM>
+<Status> Married Filing Jointly </Status>
+<Income> 22570.0 </Income>
+
+<Receipts>
+
+<ReceiptID> 1 </ReceiptID>
+<Date> 21/12/2000 </Date>
+<Kind> Basic </Kind>
+<Amount> 1000.0 </Amount>
+<Company> Public </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> unk </Street>
+<Number> 21 </Number>
+
+<ReceiptID> 2 </ReceiptID>
+<Date> 11/12/2022 </Date>
+<Kind> Basic </Kind>
+<Amount> 1231231.0 </Amount>
+<Company> frgw </Company>
+<Country> wegw </Country>
+<City> gwe </City>
+<Street> wgwe </Street>
+<Number> 1 </Number>
+

@@ -1,0 +1,27 @@
+Name: Apostolos Zarras
+AFM: 130456093
+Status: Married Filing Jointly
+Income: 22570.0
+
+Receipts:
+
+Receipt ID: 5
+Date: 21/1/2023
+Kind: Basic
+Amount: 10.0
+Company: GQ
+Country: GG
+City: ewg
+Street: fwseg
+Number: 12
+
+Receipt ID: 1
+Date: 21/12/2000
+Kind: Basic
+Amount: 2100.0
+Company: Greex
+Country: Greece
+City: fwqf
+Street: qfqwf
+Number: 2
+
